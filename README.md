@@ -1,0 +1,2 @@
+# SinbgletonSample
+Sinbgleton Sample implements.
